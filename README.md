@@ -7,4 +7,8 @@ Apache needs at least these modules enabled:
  - proxy_module
  - proxy_http_module
  - ssl_module
-  
+
+All custom configurations are made at the top of the config file.
+Surveys will be accessible at https://your.public.survey.address/surveys/.
+
+Feedback/contributions are welcome!
